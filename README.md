@@ -5,7 +5,7 @@ A repo containing lesson materials from the PyData PDX Lunch-and-Learn series
 
 ## Slides
 
-- [Introduction to Data Analysis with PyData Tools (03/04/2021)](https://docs.google.com/presentation/d/1zbn8BSe-V8TwdARnsPnHVsfjvoqmwVAx7NuN6S9hdbw/edit?usp=sharing)
+- [Pandas 101](https://docs.google.com/presentation/d/1zbn8BSe-V8TwdARnsPnHVsfjvoqmwVAx7NuN6S9hdbw/edit?usp=sharing)
 - [Data Visualization 101](https://docs.google.com/presentation/d/1a-AlfpnuUCSbNt70vOUXtuGK8UovfMzwogOP-sQIb4k/edit?usp=sharing)
 
 ## Video Walkthroughs
