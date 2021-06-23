@@ -1,0 +1,52 @@
+﻿state,cases,deaths,abbrev
+California,3.81,63370,CA
+Texas,2.98,52328,TX
+Florida,2.32,37656,FL
+New York,2.11,53048,NY
+Illinois,1.39,25600,IL
+Pennsylvania,1.22,27655,PA
+Ohio,1.11,20213,OH
+Georgia,1.11,20639,GA
+New Jersey,1.02,26392,NJ
+North Carolina,1.01,13401,NC
+Michigan,0.997,20897,MI
+Arizona,0.891,17858,AZ
+Tennessee,0.853,12433,TN
+Indiana,0.755,13811,IN
+Massachusetts,0.709,17977,MA
+Virginia,0.679,11367,VA
+Wisconsin,0.677,8067,WI
+Missouri,0.628,9862,MO
+Minnesota,0.605,7643,MN
+South Carolina,0.596,9804,SC
+Colorado,0.558,6885,CO
+Alabama,0.549,11311,AL
+Louisiana,0.478,10699,LA
+Kentucky,0.465,7240,KY
+Maryland,0.462,9715,MD
+Oklahoma,0.456,7354,OK
+Washington,0.45,5887,WA
+Utah,0.412,2333,UT
+Iowa,0.373,6117,IA
+Connecticut,0.349,8271,CT
+Arkansas,0.346,5884,AR
+Nevada,0.33,5653,NV
+Mississippi,0.32,7390,MS
+Kansas,0.318,5165,KS
+Nebraska,0.224,2519,NE
+Oregon,0.207,2786,OR
+New Mexico,0.205,4332,NM
+Idaho,0.194,2142,ID
+West Virginia,0.164,2870,WV
+Rhode Island,0.152,2726,RI
+South Dakota,0.124,2027,SD
+Montana,0.113,1655,MT
+North Dakota,0.111,1557,ND
+Delaware,0.11,1691,DE
+New Hampshire,0.009934,1368,NH
+Alaska,0.007037,356,AK
+Maine,0.006886,854,ME
+Wyoming,0.00617,734,WY
+"Washington, D.C.",0.004927,1141,DC
+Hawaii,0.003606,510,HI
+Vermont,0.002437,256,VT
