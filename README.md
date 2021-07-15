@@ -11,7 +11,7 @@ A repo containing lesson materials from the PyData PDX Lunch-and-Learn series
 
 ## Video Walkthroughs
 
-- [Pandas 101](https://www.youtube.com/watch?v=7Q6HA015Umg&t=7s)
+- [Pandas 101](https://www.youtube.com/watch?v=7Q6HA015Umg)
 - [Pandas 102](https://www.youtube.com/watch?v=6MQo2S0fzD8)
-- [Pandas 103](https://www.youtube.com/watch?v=nbTlVGaoor0&t=697s)
+- [Pandas 103](https://www.youtube.com/watch?v=nbTlVGaoor0)
 - [Data Visualization 101](https://youtu.be/qXQb_A7UuqU)
